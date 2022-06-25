@@ -17,7 +17,6 @@ This command configues the user. This command sets the author name and email add
 $ git config --global user.name "Anika"
 $ git config --global user.email "anikanawer8@gmail.com"
 ```
-
 ## 2. Git init command
 
 This command is used to make a local empty repository.
